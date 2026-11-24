@@ -1,8 +1,8 @@
 # News Image — 24 November 2026
 
-[![make.fun bounty](https://make.fun/api/bounties/news-image-20261124/badge.svg)](https://make.fun/bounty/news-image-20261124)
-[![make.fun rank](https://make.fun/api/bounties/news-image-20261124/rank.svg)](https://make.fun/bounty/news-image-20261124)
-[![make.fun reward](https://make.fun/api/bounties/news-image-20261124/reward.svg)](https://make.fun/bounty/news-image-20261124)
+[![make.fun · news-image-20261124](https://make.fun/badge/news-image-20261124.svg)](https://make.fun/bounty/news-image-20261124?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261124)
+[![rank](https://make.fun/badge/news-image-20261124/Harbinger39/news-image-24-nov/rank.svg)](https://make.fun/bounty/news-image-20261124/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261124)
+[![reward](https://make.fun/badge/news-image-20261124/Harbinger39/news-image-24-nov/reward.svg)](https://make.fun/bounty/news-image-20261124?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261124)
 
 A one-image summary of 24 November 2026's world news, built as a newspaper front page.
 
